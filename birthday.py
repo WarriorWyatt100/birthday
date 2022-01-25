@@ -1,4 +1,5 @@
-print("Hello World!")
+day = input("Enter your birth day: ")
+month = input("Enter your birth month: ")
+year = input("Enter your birth year: ")
 
-for i in range (5):
-    print("Sup")
+print("You were born on: ", month, day, year)
